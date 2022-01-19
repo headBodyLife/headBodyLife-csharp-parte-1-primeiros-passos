@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1_PrimeiroProjeto", "_1_PrimeiroProjeto\_1_PrimeiroProjeto.csproj", "{F9D90434-FF49-4C8C-A9AE-B35205923504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2_CriandoVariaveis", "..\..\aula2\_2_CriandoVariaveis\_2_CriandoVariaveis.csproj", "{69FF6ADE-CC2D-4AFD-82C7-6BEF059A8553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9D90434-FF49-4C8C-A9AE-B35205923504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D90434-FF49-4C8C-A9AE-B35205923504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D90434-FF49-4C8C-A9AE-B35205923504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D90434-FF49-4C8C-A9AE-B35205923504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69FF6ADE-CC2D-4AFD-82C7-6BEF059A8553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FF6ADE-CC2D-4AFD-82C7-6BEF059A8553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FF6ADE-CC2D-4AFD-82C7-6BEF059A8553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FF6ADE-CC2D-4AFD-82C7-6BEF059A8553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
