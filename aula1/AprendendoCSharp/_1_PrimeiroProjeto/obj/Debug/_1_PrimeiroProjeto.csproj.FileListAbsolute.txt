@@ -1,0 +1,6 @@
+/home/allan/docs/C#/alura/AprendendoCSharp/aula1/AprendendoCSharp/_1_PrimeiroProjeto/bin/Debug/_1_PrimeiroProjeto.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula1/AprendendoCSharp/_1_PrimeiroProjeto/bin/Debug/_1_PrimeiroProjeto.pdb
+/home/allan/docs/C#/alura/AprendendoCSharp/aula1/AprendendoCSharp/_1_PrimeiroProjeto/obj/Debug/_1_PrimeiroProjeto.csprojAssemblyReference.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula1/AprendendoCSharp/_1_PrimeiroProjeto/obj/Debug/_1_PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula1/AprendendoCSharp/_1_PrimeiroProjeto/obj/Debug/_1_PrimeiroProjeto.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula1/AprendendoCSharp/_1_PrimeiroProjeto/obj/Debug/_1_PrimeiroProjeto.pdb
