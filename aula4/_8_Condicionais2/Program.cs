@@ -8,7 +8,7 @@ namespace _8_Condicionais2
         {
             {
                 
-                Console.WriteLine("Executando projeto 7 - Condicionais");
+                Console.WriteLine("Executando projeto 8 - Condicionais com Booleano");
                 int idadeJoao = 16;
                 //int quantidadePessoa = 2;
                 //bool acompanhado = quantidadePessoa >= 2;

@@ -1,0 +1,6 @@
+/home/allan/docs/C#/alura/AprendendoCSharp/aula4/_9_Escopo/bin/Debug/_9_Escopo.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula4/_9_Escopo/bin/Debug/_9_Escopo.pdb
+/home/allan/docs/C#/alura/AprendendoCSharp/aula4/_9_Escopo/obj/Debug/_9_Escopo.csprojAssemblyReference.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula4/_9_Escopo/obj/Debug/_9_Escopo.csproj.CoreCompileInputs.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula4/_9_Escopo/obj/Debug/_9_Escopo.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula4/_9_Escopo/obj/Debug/_9_Escopo.pdb
