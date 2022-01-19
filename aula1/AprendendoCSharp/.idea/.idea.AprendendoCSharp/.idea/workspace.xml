@@ -8,8 +8,8 @@
     <projectFile>../../aula2/_4_ConversoesEOutrosTiposNumerios/_4_ConversoesEOutrosTiposNumerios.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad1ac955-8a4b-41aa-83a0-60d6c813b7d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../aula2/_4_ConversoesEOutrosTiposNumericos/_4_ConversoesEOutrosTiposNumericos.csproj" afterDir="false" />
+    <list default="true" id="ad1ac955-8a4b-41aa-83a0-60d6c813b7d9" name="Changes" comment="Conversão e outros tipos numericos">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AprendendoCSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AprendendoCSharp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AprendendoCSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AprendendoCSharp.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +26,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../../aula2/_4_ConversoesEOutrosTiposNumericos/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../aula2/_4_ConversoesEOutrosTiposNumericos/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_1_PrimeiroProjeto/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../aula2/_3_CriandoVariaveisPontoFlutuante/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -158,8 +158,16 @@
       <option name="presentableId" value="Default" />
       <updated>1642605237733</updated>
       <workItem from="1642605241683" duration="3825000" />
-      <workItem from="1642610107637" duration="3346000" />
+      <workItem from="1642610107637" duration="4825000" />
     </task>
+    <task id="LOCAL-00001" summary="Conversão e outros tipos numericos">
+      <created>1642614039382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642614039382</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,5 +189,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Conversão e outros tipos numericos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conversão e outros tipos numericos" />
   </component>
 </project>
