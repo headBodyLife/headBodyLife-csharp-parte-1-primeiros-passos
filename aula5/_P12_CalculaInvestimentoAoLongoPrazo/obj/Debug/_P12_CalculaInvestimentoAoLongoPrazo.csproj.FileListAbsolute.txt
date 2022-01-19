@@ -1,0 +1,6 @@
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P12_CalculaInvestimentoAoLongoPrazo/bin/Debug/_P12_CalculaInvestimentoAoLongoPrazo.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P12_CalculaInvestimentoAoLongoPrazo/bin/Debug/_P12_CalculaInvestimentoAoLongoPrazo.pdb
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P12_CalculaInvestimentoAoLongoPrazo/obj/Debug/_P12_CalculaInvestimentoAoLongoPrazo.csprojAssemblyReference.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P12_CalculaInvestimentoAoLongoPrazo/obj/Debug/_P12_CalculaInvestimentoAoLongoPrazo.csproj.CoreCompileInputs.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P12_CalculaInvestimentoAoLongoPrazo/obj/Debug/_P12_CalculaInvestimentoAoLongoPrazo.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P12_CalculaInvestimentoAoLongoPrazo/obj/Debug/_P12_CalculaInvestimentoAoLongoPrazo.pdb

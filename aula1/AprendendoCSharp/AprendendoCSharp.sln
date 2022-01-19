@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_P10_CalculaPoupanca", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_P11_CalculaPoupanca2", "..\..\aula5\_P11_CalculaPoupanca2\_P11_CalculaPoupanca2.csproj", "{460E996B-88A8-40C6-9F29-149F3684F597}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_P12_CalculaInvestimentoAoLongoPrazo", "..\..\aula5\_P12_CalculaInvestimentoAoLongoPrazo\_P12_CalculaInvestimentoAoLongoPrazo.csproj", "{CA7BD2D0-DF7D-4EBA-B684-BAAA085D7B07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{460E996B-88A8-40C6-9F29-149F3684F597}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{460E996B-88A8-40C6-9F29-149F3684F597}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{460E996B-88A8-40C6-9F29-149F3684F597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7BD2D0-DF7D-4EBA-B684-BAAA085D7B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7BD2D0-DF7D-4EBA-B684-BAAA085D7B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7BD2D0-DF7D-4EBA-B684-BAAA085D7B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7BD2D0-DF7D-4EBA-B684-BAAA085D7B07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
