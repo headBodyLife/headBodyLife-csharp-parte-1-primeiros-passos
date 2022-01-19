@@ -1,6 +1,0 @@
-/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_4_ConversoesEOutrosTiposNumericos/bin/Debug/_4_ConversoesEOutrosTiposNumericos.exe
-/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_4_ConversoesEOutrosTiposNumericos/bin/Debug/_4_ConversoesEOutrosTiposNumericos.pdb
-/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_4_ConversoesEOutrosTiposNumericos/obj/Debug/_4_ConversoesEOutrosTiposNumericos.csprojAssemblyReference.cache
-/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_4_ConversoesEOutrosTiposNumericos/obj/Debug/_4_ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
-/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_4_ConversoesEOutrosTiposNumericos/obj/Debug/_4_ConversoesEOutrosTiposNumericos.exe
-/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_4_ConversoesEOutrosTiposNumericos/obj/Debug/_4_ConversoesEOutrosTiposNumericos.pdb
