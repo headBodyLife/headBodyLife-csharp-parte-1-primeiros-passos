@@ -1,0 +1,6 @@
+/home/allan/docs/C#/alura/AprendendoCSharp/aula3/_6_AtribuicoesDeVariaveis/bin/Debug/_6_AtribuicoesDeVariaveis.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula3/_6_AtribuicoesDeVariaveis/bin/Debug/_6_AtribuicoesDeVariaveis.pdb
+/home/allan/docs/C#/alura/AprendendoCSharp/aula3/_6_AtribuicoesDeVariaveis/obj/Debug/_6_AtribuicoesDeVariaveis.csprojAssemblyReference.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula3/_6_AtribuicoesDeVariaveis/obj/Debug/_6_AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula3/_6_AtribuicoesDeVariaveis/obj/Debug/_6_AtribuicoesDeVariaveis.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula3/_6_AtribuicoesDeVariaveis/obj/Debug/_6_AtribuicoesDeVariaveis.pdb
