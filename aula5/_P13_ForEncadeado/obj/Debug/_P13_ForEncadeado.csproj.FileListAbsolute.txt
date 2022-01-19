@@ -1,0 +1,6 @@
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P13_ForEncadeado/bin/Debug/_P13_ForEncadeado.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P13_ForEncadeado/bin/Debug/_P13_ForEncadeado.pdb
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P13_ForEncadeado/obj/Debug/_P13_ForEncadeado.csprojAssemblyReference.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P13_ForEncadeado/obj/Debug/_P13_ForEncadeado.csproj.CoreCompileInputs.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P13_ForEncadeado/obj/Debug/_P13_ForEncadeado.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P13_ForEncadeado/obj/Debug/_P13_ForEncadeado.pdb
