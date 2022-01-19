@@ -1,0 +1,6 @@
+/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_3_CriandoVariaveisPontoFlutuante/bin/Debug/_3_CriandoVariaveisPontoFlutuante.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_3_CriandoVariaveisPontoFlutuante/bin/Debug/_3_CriandoVariaveisPontoFlutuante.pdb
+/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_3_CriandoVariaveisPontoFlutuante/obj/Debug/_3_CriandoVariaveisPontoFlutuante.csprojAssemblyReference.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_3_CriandoVariaveisPontoFlutuante/obj/Debug/_3_CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_3_CriandoVariaveisPontoFlutuante/obj/Debug/_3_CriandoVariaveisPontoFlutuante.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_3_CriandoVariaveisPontoFlutuante/obj/Debug/_3_CriandoVariaveisPontoFlutuante.pdb
