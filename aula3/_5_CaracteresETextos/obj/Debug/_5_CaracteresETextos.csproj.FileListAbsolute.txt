@@ -1,0 +1,6 @@
+/home/allan/docs/C#/alura/AprendendoCSharp/aula3/_5_CaracteresETextos/bin/Debug/_5_CaracteresETextos.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula3/_5_CaracteresETextos/bin/Debug/_5_CaracteresETextos.pdb
+/home/allan/docs/C#/alura/AprendendoCSharp/aula3/_5_CaracteresETextos/obj/Debug/_5_CaracteresETextos.csprojAssemblyReference.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula3/_5_CaracteresETextos/obj/Debug/_5_CaracteresETextos.csproj.CoreCompileInputs.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula3/_5_CaracteresETextos/obj/Debug/_5_CaracteresETextos.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula3/_5_CaracteresETextos/obj/Debug/_5_CaracteresETextos.pdb
