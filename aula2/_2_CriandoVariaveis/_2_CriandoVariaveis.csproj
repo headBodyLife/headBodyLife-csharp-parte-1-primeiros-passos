@@ -5,7 +5,7 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{97317882-49E2-45E0-9A1B-2F0193658487}</ProjectGuid>
+        <ProjectGuid>{69FF6ADE-CC2D-4AFD-82C7-6BEF059A8553}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
         <RootNamespace>_2_CriandoVariaveis</RootNamespace>
