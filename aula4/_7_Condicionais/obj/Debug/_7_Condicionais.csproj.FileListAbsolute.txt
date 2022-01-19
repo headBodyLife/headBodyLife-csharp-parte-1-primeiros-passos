@@ -1,0 +1,6 @@
+/home/allan/docs/C#/alura/AprendendoCSharp/aula4/_7_Condicionais/bin/Debug/_7_Condicionais.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula4/_7_Condicionais/bin/Debug/_7_Condicionais.pdb
+/home/allan/docs/C#/alura/AprendendoCSharp/aula4/_7_Condicionais/obj/Debug/_7_Condicionais.csprojAssemblyReference.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula4/_7_Condicionais/obj/Debug/_7_Condicionais.csproj.CoreCompileInputs.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula4/_7_Condicionais/obj/Debug/_7_Condicionais.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula4/_7_Condicionais/obj/Debug/_7_Condicionais.pdb
