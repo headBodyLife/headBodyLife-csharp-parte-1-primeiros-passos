@@ -1,0 +1,6 @@
+/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_2_CriandoVariaveis/bin/Debug/_2_CriandoVariaveis.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_2_CriandoVariaveis/bin/Debug/_2_CriandoVariaveis.pdb
+/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_2_CriandoVariaveis/obj/Debug/_2_CriandoVariaveis.csprojAssemblyReference.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_2_CriandoVariaveis/obj/Debug/_2_CriandoVariaveis.csproj.CoreCompileInputs.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_2_CriandoVariaveis/obj/Debug/_2_CriandoVariaveis.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula2/_2_CriandoVariaveis/obj/Debug/_2_CriandoVariaveis.pdb
