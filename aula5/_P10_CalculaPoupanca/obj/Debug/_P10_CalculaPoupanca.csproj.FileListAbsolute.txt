@@ -1,0 +1,6 @@
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P10_CalculaPoupanca/bin/Debug/_P10_CalculaPoupanca.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P10_CalculaPoupanca/bin/Debug/_P10_CalculaPoupanca.pdb
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P10_CalculaPoupanca/obj/Debug/_P10_CalculaPoupanca.csprojAssemblyReference.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P10_CalculaPoupanca/obj/Debug/_P10_CalculaPoupanca.csproj.CoreCompileInputs.cache
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P10_CalculaPoupanca/obj/Debug/_P10_CalculaPoupanca.exe
+/home/allan/docs/C#/alura/AprendendoCSharp/aula5/_P10_CalculaPoupanca/obj/Debug/_P10_CalculaPoupanca.pdb
